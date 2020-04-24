@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuanxiong Guo
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Texas at San Antonio
+  url: "http://www.utsa.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio. I received my Ph.D. degree in electrical and computer engineering from the University of Florida in 2014, M.S. degree in electrical and computer engineering from the University of Florida in 2012, and B.Eng. degree in electronics and information engineering from Huazhong University of Science and Technology in 2009.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Analytics
+- Security and Privacy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D. in Electrical and Computer Engineering
+    institution: University of Florida
+    year: 2014
+  - course: M.S. in Electrical and Computer Engineering
+    institution: University of Florida
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: B.E. in Electronics and Information Engineering
+    institution: Huazhong University of Science and Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
