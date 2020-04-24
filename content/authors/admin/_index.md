@@ -18,7 +18,7 @@ organizations:
   url: "http://www.utsa.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio. I received my Ph.D. degree in electrical and computer engineering from the University of Florida in 2014, M.S. degree in electrical and computer engineering from the University of Florida in 2012, and B.Eng. degree in electronics and information engineering from Huazhong University of Science and Technology in 2009.
+bio: Yuanxiong Guo is an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio. His current research focuses on data analytics, security and privacy with applications to Internet of things, cyber-physical systems, and edge computing.
 
 interests:
 - Data Analytics
@@ -71,4 +71,3 @@ user_groups:
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
