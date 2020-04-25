@@ -14,6 +14,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
+- name: Department of Information Systems and Cyber Security
+  url: "https://business.utsa.edu/information-systems-cyber-security/"
 - name: University of Texas at San Antonio
   url: "http://www.utsa.edu"
 
@@ -43,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:yuanxiong.guo@utsa.edu".
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -64,9 +66,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Yuanxiong Guo is an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio. His current research focuses on data analytics, security and privacy with applications to Internet of things, cyber-physical systems, and edge computing.
