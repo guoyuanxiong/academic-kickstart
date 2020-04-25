@@ -25,6 +25,7 @@ bio: Yuanxiong Guo is an Assistant Professor in the Department of Information Sy
 interests:
 - Data Analytics
 - Security and Privacy
+- Internet of Things
 
 education:
   courses:
