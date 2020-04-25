@@ -18,7 +18,7 @@ organizations:
   url: "http://www.utsa.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yuanxiong Guo is an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio. His current research focuses on data analytics, security and privacy with applications to Internet of things, cyber-physical systems, and edge computing.
+bio: Yuanxiong Guo is an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio.
 
 interests:
 - Data Analytics
